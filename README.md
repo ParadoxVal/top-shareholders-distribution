@@ -13,6 +13,6 @@ Who owns the top companies in the US?
 
 This repository contains a Jupyter notebook that retrieves the top 10 shareholders and for a given stock symbol using the BeautifulSoup and pandas. The script uses the requests library to make an HTTP request to the Yahoo Finance website or the CNN money website to extract the required information using string manipulation techniques.
 
-This notebook can be useful for investors or anyonbe who are interested in analyzing the ownership structure of a particular company and identifying the largest shareholders are how sector monopoly is playing out. It can also be used as a starting point for more complex analysis of shareholder distribution and activity.
+This notebook can be useful for investors or anyone who are interested in analyzing the ownership structure of a particular company, identifying the largest shareholders, and seeing how sector monopolies is playing out. It can also be used as a starting point for more complex analysis of shareholder distribution and activity.
 
 Feel free to use, modify, and contribute to this project as needed.
