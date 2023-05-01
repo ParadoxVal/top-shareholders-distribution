@@ -1,6 +1,8 @@
 # Top Shareholders Distribution
 Who owns the top companies in the US?
 
+![Top 10 Stockholders in Each GICS Sector](/img/top_10_stockholders.png)
+
 This repository contains a Python script that retrieves the top 10 shareholders and their distribution for a given stock symbol using the Yahoo Finance API. The script uses the requests library to make an HTTP request to the Yahoo Finance website and extract the required information using string manipulation techniques.
 
 To use the script, simply provide the stock symbol as an argument and run the script. The script will retrieve the top 10 shareholders and their percentage of shares held for the specified stock symbol.
